@@ -66,10 +66,9 @@
 				"type" : "RECEPTIVE",
 				"val" : 1
 			}
-		}},
+		},
 		"stackExperience" :
- 
-		[
+ 		[
 			{
 				"bonus" :
 				{
@@ -141,7 +140,4 @@
 			"wince": "GRDRWNCE.wav"
 		}
 	}
-
-
-
-
+}
