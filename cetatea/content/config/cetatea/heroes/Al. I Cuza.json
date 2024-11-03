@@ -20,7 +20,7 @@
 		"skills" :
 		[
 			{
-				"level" : "expert",
+				"level" : "advanced",
 				"skill" : "diplomacy"
 			}
 		],
@@ -30,9 +30,9 @@
 			"biography" : "Alexandru Ioan Cuza  was a Moldavian-born Romanian politician who ruled as the first Domnitor of the United Principalities of Wallachia and Moldavia between 1859 and 1866.",
 		
 			"specialty" : {
-				"description" : "Starts with Expert Diplomacy.",
+				"description" : "Starts with Advanced Diplomacy.",
 				"name" : "Diplomacy",
-				"tooltip" : "{Diplomacy}\r\n\r\nStarts with Expert Diplomacy."
+				"tooltip" : "Starts with Advanced Diplomacy."
 			}
 		},
 		"specialty": 

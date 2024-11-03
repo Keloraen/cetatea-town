@@ -32,7 +32,7 @@
 			"specialty" : {
 				"description" : "Receives a 5% per level bonus to Resistance skill percentage.",
 				"name" : "Resistance",
-				"tooltip" : "{Resistance}\r\n\r\nReceives a 5% per level bonus to Resistance skill percentage."
+				"tooltip" : "Receives a 5% per level bonus to Resistance skill percentage."
 			}
 		},
 		"specialty" : {

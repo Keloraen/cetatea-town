@@ -35,9 +35,9 @@
 			"biography" : "Vlad Tepes more commonly known as Dracula, was a three-time Voivode of Wallachia, ruling mainly from 1456 to 1462.His favourite executing method was impaling.",
 		
 			"specialty" : {
-				"description" : "Creature Bonus: Vampires",
+				"description" : "Increase the stats of Vampires and Vampire Lords: +5 Atk, +6 Def, +5 Dmg",
 				"name" : "Blood Lords",
-				"tooltip" : "{Vampires and Vampire Lords}\r\n\r\nIncrease the stats of Vampires and Vampire Lords: +5 Atk, +6 Def, +5 Dmg"
+				"tooltip" : "Creature bonus: Vampires"
 			}
 		},
 		"specialty" : {

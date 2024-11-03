@@ -38,7 +38,7 @@
 			"specialty" : {
 				"description" : "Casts Slayer with increased effect, based on hero level compared to the level of the target unit.",
 				"name" : "Slayer",
-				"tooltip" : "{Slayer}\r\n\r\nCasts Slayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units.)"
+				"tooltip" : "Casts Slayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units.)"
 
 			}
 		},

@@ -37,7 +37,7 @@
 			"specialty" : {
 				"description" : "Can upgrade Griffins, Royal Griffins, Rocs and Thnederbirds into Zgriptori.",
 				"name" : "Zgriptori",
-				"tooltip" : "{Zgriptori}\r\n\r\nCan upgrade Griffins, Royal Griffins, Rocs and Thnederbirds into Zgriptori."
+				"tooltip" : "Can upgrade Griffins, Royal Griffins, Rocs and Thnederbirds into Zgriptori."
 			}
 		},
 		

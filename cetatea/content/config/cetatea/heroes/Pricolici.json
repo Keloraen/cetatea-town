@@ -37,7 +37,7 @@
 			"specialty" : {
 				"description" : "Receives a 5% per level bonus to Intelligence skill percentage.",
 				"name" : "Intelligence",
-				"tooltip" : "{Intelligence}\r\n\r\nReceives a 5% per level bonus to Intelligence skill percentage."
+				"tooltip" : "Receives a 5% per level bonus to Intelligence skill percentage."
 			}
 		},
 		"specialty" : {

@@ -37,7 +37,7 @@
 			"specialty" : {
 				"description" : "Casts Prayer with increased effect, based on hero level compared to the level of the target unit.",
 				"name" : "Prayer",
-				"tooltip" : "{Prayer}\r\n\r\nCasts Prayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units.)"
+				"tooltip" : "Casts Prayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units.)"
 			}
 		},
 		"specialty" : {

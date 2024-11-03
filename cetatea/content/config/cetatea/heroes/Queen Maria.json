@@ -32,7 +32,7 @@
 			"specialty" : {
 				"description" : "Increases kingdom's income by 350 gold per day.",
 				"name" : "+350 Gold",
-				"tooltip" : "{Gold}\r\n\r\nIncreases kingdom's income by 350 gold per day."
+				"tooltip" : "Increases kingdom's income by 350 gold per day."
 			}
 		},
 		"specialty" : {

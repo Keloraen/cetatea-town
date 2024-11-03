@@ -37,7 +37,7 @@
 			"specialty" : {
 				"description" : "Increases Speed of any Werewolves or Alpha Werewolves by 1 and their Attack and Defense skills by 5% for every 5 levels (rounded up).",
 				"name" : "Werewolves",
-				"tooltip" : "{Werewolves}\r\n\r\nIncreases Speed of any Werewolves or Alpha Werewolves by 1 and their Attack and Defense skills by 5% for every 5 levels (rounded up)."
+				"tooltip" : "Increases Speed of any Werewolves or Alpha Werewolves by 1 and their Attack and Defense skills by 5% for every 5 levels (rounded up)."
 			}
 		},
 		"specialty" : {

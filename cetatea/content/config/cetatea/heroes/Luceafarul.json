@@ -37,7 +37,7 @@
 			"specialty" : {
 				"description" : "Receives a 5% per level bonus to Eagle Eye skill percentage.",
 				"name" : "Eagle Eye",
-				"tooltip" : "{Eagle Eye}\r\n\r\nReceives a 5% per level bonus to Eagle Eye skill percentage."
+				"tooltip" : "Receives a 5% per level bonus to Eagle Eye skill percentage."
 			}
 		},
 		"specialty" : {

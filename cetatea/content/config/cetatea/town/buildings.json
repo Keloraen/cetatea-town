@@ -185,6 +185,7 @@
 						"wood" : 5,
 						"gold" : 500
 					},
+					"marketModes" : ["resource-resource", "resource-player"],
 					"id" : 14
 				},
 				"resourceSilo" :
@@ -196,6 +197,7 @@
 						"ore" : 5,
 						"gold" : 5000
 					},
+					"produce": { "gems": 1},
 					"requires" : [ "marketplace" ],
 					"id" : 15
 				},
@@ -203,6 +205,7 @@
 				{
 					"description" : "The Blacksmith provides your armies with First Aid Tents.",
 					"name" : "Blacksmith",
+					"warMachine" : "firstAidTent",
 					"cost" :
 					{
 						"wood" : 5,

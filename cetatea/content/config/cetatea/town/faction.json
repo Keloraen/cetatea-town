@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/cetatea",
+			"musicTheme" : [ "music/factions/cetatea" ],
 			"defaultTavern" : 5,
 			"tavern" :
 			{
@@ -151,7 +151,6 @@
 				}
                         },
 			"mageGuild" : 5,
-			"warMachine" : "firstAidTent",
 			"names" : [
 				"Targoviste",
 				"Cluj",

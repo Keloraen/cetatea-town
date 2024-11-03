@@ -37,7 +37,7 @@
 			"specialty" : {
 				"description" : "Increases kingdom's gems production by 1 per day.",
 				"name" : "+1 Gem",
-				"tooltip" : "{Gems}\r\n\r\nIncreases kingdom's gems production by 1 per day."
+				"tooltip" : "Increases kingdom's gems production by 1 per day."
 			}
 		},
 		"specialty" : {

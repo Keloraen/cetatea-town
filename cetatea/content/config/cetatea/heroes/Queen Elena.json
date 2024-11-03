@@ -38,7 +38,7 @@
 			"specialty" : {
 				"description" : "Receives a 7% per level bonus to Learning skill percentage.",
 				"name" : "Learning",
-				"tooltip" : "{Learning}\r\n\r\nReceives a 7% per level bonus to Learning skill percentage."
+				"tooltip" : "Receives a 7% per level bonus to Learning skill percentage."
 			}
 		},
 		"specialty" : {
